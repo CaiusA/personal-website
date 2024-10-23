@@ -1,5 +1,5 @@
 export const info = {
-	Bio: `I'm interested in looking for positions that utilize programming or information security. I have recently received my Certified in Cybersecurity (CC) certification from ISC2.
+	Bio: `My name is Caius Arias and I'm interested in looking for positions that utilize programming or information security. I have recently received my Certified in Cybersecurity (CC) certification from ISC2.
 
 I worked as a Technology Support Specialist for Gurnee School District 56 where I mainly serviced Prairie Trail School but also covered other schools within the district.  I solved a large variety of problems covering Macbooks, iPads, printers and copiers, projectors, sound systems, security cameras, new staff and student setup, etc. so that student education remained undisrupted.
 
